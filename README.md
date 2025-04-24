@@ -5,7 +5,7 @@
 - <details>
   <summary>🔧 Стек технологий</summary>
 
-  - HTML (HTML5), EJS, JSX
+  - HTML (HTML5)
   - CSS (CSS3), Sass (SCSS), Tailwind
   - JavaScript (ES6+), TypeScript
   - Vue 3
